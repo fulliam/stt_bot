@@ -1,0 +1,6 @@
+pydub==0.25.1
+requests==2.26.0
+speechrecognition==3.10.0
+telebot==0.0.4
+python-dotenv==1.0.0
+pyTelegramBotAPI==4.11.0
